@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Emin-A
-- 👀 I’m interested in  =  Front End Web Development (React, JS), later (Full-Stack)
-- 🌱 I’m currently learning  =  Front End Web Devlopment (HTML,CSS,JavaScript,React)
-- 💞️ I’m looking to collaborate on  =  Front End Web Development projects for now. 
+- 👀 I’m interested in  =  Dynamo scripting and PyRevit for BIM implementation...
+- 🌱 I’m currently learning  =  Dynamo and PyRevit...
+- 💞️ I’m looking to collaborate on  =  a variety of architectural projects...
 - 📫 How to reach me  =  eminavdovic@gmail.com or DM me on LinkedIn.
 
 <!---
